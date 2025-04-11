@@ -4,7 +4,6 @@
 
 ![TEKONOMICS TRIANGLE](./Aurora.%C3%986%20%E2%80%94%20TEK%C3%98N%C3%98MICS%20Defined.png)
 
-
 **Formula:**  
 **T** — Thought  
 **E** — Energy / Action  
